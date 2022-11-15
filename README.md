@@ -1,4 +1,4 @@
-![I am a UI/UX Designer](https://github.com/hasanul-kabir09/MyPortfolio/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+![Banner](https://github.com/hasanul-kabir09/MyPortfolio/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/hasanul-kabir09?label=Follow%20Me&style=social)](https://github.com/hasanul-kabir09)
 # Md Hasanul Kabir
